@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
  
   s.add_dependency "workflow", '~>0.7'
   s.add_dependency "mongoid", '2.0.0.beta.18'
-  s.add_dependency "bson_ext", '~>1.1'
+  s.add_dependency "bson_ext", '1.0.4'
 
   s.add_development_dependency "rake", '0.8.7'    
   s.add_development_dependency "rspec", '~>2.0.0.rc'
